@@ -1844,3 +1844,138 @@ SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
 Rendering template within layouts/application
 Rendering home/index
 Completed in 0.01500 (66 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2008-11-11 15:38:46) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"home"}
+Rendering template within layouts/application
+Rendering home/index
+Completed in 0.03100 (32 reqs/sec) | Rendering: 0.01500 (48%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing RailsController#index (for 127.0.0.1 at 2008-11-11 15:38:49) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"rails"}
+Rendering template within layouts/application
+Rendering rails/index
+Completed in 0.01600 (62 reqs/sec) | Rendering: 0.01600 (100%) | DB: 0.00000 (0%) | 200 OK [http://localhost/rails]
+
+
+Processing RailsController#index (for 127.0.0.1 at 2008-11-11 15:38:59) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"rails"}
+Rendering template within layouts/application
+Rendering rails/index
+Completed in 0.00010 (10000 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/rails]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2008-11-11 15:39:06) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"home"}
+Rendering template within layouts/application
+Rendering home/index
+Completed in 0.01600 (62 reqs/sec) | Rendering: 0.01600 (100%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2008-11-11 15:39:30) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"home"}
+Rendering template within layouts/application
+Rendering home/index
+Completed in 0.01500 (66 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2008-11-11 15:39:31) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"about"}
+Rendering template within layouts/application
+Rendering about/index
+Completed in 0.01600 (62 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/about]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2008-11-11 15:39:33) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"about"}
+Rendering template within layouts/application
+Rendering about/index
+Completed in 0.01600 (62 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/about]
+
+
+Processing GuideController#index (for 127.0.0.1 at 2008-11-11 15:39:33) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"guide"}
+Rendering template within layouts/application
+Rendering guide/index
+Completed in 0.01500 (66 reqs/sec) | Rendering: 0.01500 (100%) | DB: 0.00000 (0%) | 200 OK [http://localhost/guide]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2008-11-11 15:39:37) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"home"}
+Rendering template within layouts/application
+Rendering home/index
+Completed in 0.00010 (10000 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing RailsController#index (for 127.0.0.1 at 2008-11-11 15:39:45) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"rails"}
+Rendering template within layouts/application
+Rendering rails/index
+Completed in 0.01600 (62 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/rails]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2008-11-11 15:40:16) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"about"}
+Rendering template within layouts/application
+Rendering about/index
+Completed in 0.01500 (66 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/about]
+
+
+Processing GuideController#index (for 127.0.0.1 at 2008-11-11 15:40:17) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"guide"}
+Rendering template within layouts/application
+Rendering guide/index
+Completed in 0.01500 (66 reqs/sec) | Rendering: 0.01500 (100%) | DB: 0.00000 (0%) | 200 OK [http://localhost/guide]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2008-11-11 15:40:25) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"about"}
+Rendering template within layouts/application
+Rendering about/index
+Completed in 0.00010 (10000 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/about]
+
+
+Processing GuideController#index (for 127.0.0.1 at 2008-11-11 15:40:26) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"guide"}
+Rendering template within layouts/application
+Rendering guide/index
+Completed in 0.01600 (62 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/guide]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2008-11-11 15:40:31) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--83ff6660cbdd694a54c7b65b481c371a1d7dcdfc
+  Parameters: {"action"=>"index", "controller"=>"home"}
+Rendering template within layouts/application
+Rendering home/index
+Completed in 0.00010 (10000 reqs/sec) | Rendering: 0.00000 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]

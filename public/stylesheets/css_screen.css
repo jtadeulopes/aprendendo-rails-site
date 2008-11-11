@@ -39,7 +39,7 @@ a:hover { text-decoration:underline; }
 }
 #top {
 	height:243px;
-	background:url(/images/Layout/back_top.jpg) no-repeat right;
+	background:url(/images/layout/back_top.jpg) no-repeat right;
 }
 	#top img {
 		position:absolute;

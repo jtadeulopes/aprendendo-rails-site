@@ -61,8 +61,7 @@ a:hover { text-decoration:underline; }
 		text-decoration:none;
 	}
 	#menu a:hover {
-		text-decoration:none;
-		background-color:#006666;
+		text-decoration:underline;
 		color:#FFFFFF;
 	}
 #contents {
@@ -114,8 +113,7 @@ a:hover { text-decoration:underline; }
 		text-decoration:none;
 	}
 	#footer a:hover {
-		text-decoration:none;
-		background-color:#006666;
+		text-decoration:underline;
 		color:#FFFFFF;
 	}
 #footer_bottom {

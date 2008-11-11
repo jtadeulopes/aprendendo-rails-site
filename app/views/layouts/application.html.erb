@@ -9,13 +9,13 @@
 <body>
 	<div id="root">
     	<div id="icons">
-        	<p><%= link_to 'Home', :controller => 'home', :action => 'index' %> | <a href="#">Contato</a></p>
+        	<p><%= link_to 'Home', :controller => 'home' %> | <a href="#">Contato</a></p>
         </div>
     	<div id="top">
 			<%= image_tag "/images/layout/logo.png" %>
             <div id="menu">
             	<ul>
-                    <li><a href="#">Como Inciar?</a> | </li>
+                    <li><%= link_to 'Como Iniciar?', :controller => 'guide' %> | </li>
                 	<li><a href="#">Quem Somos</a> | </li>
                     <li><a href="#">Reuni&otilde;es</a> |</li>
                     <li><a href="#">Apoio</a></li>
